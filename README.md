@@ -132,6 +132,7 @@ The README file in a GitHub repository is crucial for providing essential inform
 - **Managing Versions**: Commits enable you to manage different versions of your project efficiently. You can compare changes between commits, create branches for new features or fixes, and merge changes back into the main project.
 
 By making commits, you maintain a detailed record of the development process, facilitating collaboration, debugging, and tracking the progress of your project.
+## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
 **Branching**
 
